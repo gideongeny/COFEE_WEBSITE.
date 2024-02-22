@@ -47,3 +47,21 @@ h3{
     color: white;
     text-align: center;
 }
+*table-box{
+    margin: 50px;
+}
+.table-row{
+    display: table;
+    width: 80px;
+    margin: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 12px;
+}
+.table cell{
+    display: table-cell;
+    width: 30px;
+    text-align: center;
+    padding: 4px;
+    border-right: 1px solid;
+    vertical-align: middle;
+}
