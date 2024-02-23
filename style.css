@@ -5,6 +5,7 @@ body{
     background-repeat: no-repeat;
     margin: 0;
     background-color: black;
+    
 
 }
 .header{
@@ -48,6 +49,7 @@ h3{
     color: white;
     text-align: center;
 }
-.table{
- table-layout: inherit;
+table{
+    text-align: right;
 }
+
